@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Iniciando a execução do Script..."
+echo "Iniciando a execução do Script v1.01..."
 echo "..."
 echo "**********************************************"
 echo "Grupos a serem usados!"
@@ -48,3 +48,4 @@ chmod 700 /home/roberto/
 chmod 700 /home/josefina/
 chmod 700 /home/amanda/
 chmod 700 /home/rogerio/
+echo "Fim da execução do Script!"
